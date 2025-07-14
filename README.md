@@ -5,4 +5,4 @@ rentry : rentry.co/xohotline
 
 dc : solarizxo
 
-tiktok : @ 666hotline
+tiktok : @ solarizxo + sorrowlis
